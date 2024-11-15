@@ -1,6 +1,6 @@
 Orignial Author: Samuel R. Rogers (Imperial College London). Published in his Thesis: Galling of Hardfacing Alloys for Light Water Reactor Systems.
 
-This code has been modified by Domonic Kwok (Imperial College London) and Kit Kirby (Monash University).
+This code has been modified extensively by Samuel R. Rogers (Imperial College London), Domonic Kwok (Imperial College London), and Kit Kirby (Monash University).
 
 The purpose of the code is to process optical profilometry data of a ASTM G196 type galled surface.
 
