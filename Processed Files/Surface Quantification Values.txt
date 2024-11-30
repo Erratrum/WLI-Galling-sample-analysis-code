@@ -1,0 +1,1 @@
+File Name, Processing Date, Sq, Ssk (µm), Mean Height (µm), Max Height (μm), Mean of Squares (µm²), RSM (µm), Sku (Kurtosis), Trough area (%), Peak area (%), Galled area (%), Trough Volume (mm^3), Peak Volume (mm^3), Galled Volume (mm^3), Average Galled Radius (mm), Gall Track Width (mm), Swept Galled Angle (˚)
